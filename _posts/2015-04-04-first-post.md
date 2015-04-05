@@ -5,7 +5,7 @@ categories:
     - life
 ---
 
-![My helpful screenshot]({{ site.url }}/assets/crystal.jpg)
+![My helpful screenshot]({{ site.baseurl }}/assets/crystal.jpg)
 
 #第一篇日记
 
